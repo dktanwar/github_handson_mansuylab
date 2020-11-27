@@ -5,6 +5,8 @@ Providing hands on git and GitHub training to people from the Mansuy lab
 
 ## Krsistina asked something
 
+## this is a conflict
+
 ## Added a new branch
 
 ## this is a test
